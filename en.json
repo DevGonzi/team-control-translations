@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome",
+  "login": "Login with Discord",
+  "logout": "Logout",
+  "dashboard": "Dashboard",
+  "pricing": "Pricing",
+  "features": "Features",
+  "support": "Support",
+  "contact": "Contact",
+  "imprint": "Imprint",
+  "privacy": "Privacy Policy",
+  "cta_register": "Register for free",
+  "cta_dashboard": "Go to Dashboard",
+  "ready_for_next_step": "Ready for the next step?",
+  "start_today": "Start today with your free account and upgrade anytime.",
+  "error": "Error",
+  "not_found": "Page not found"
+}

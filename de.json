@@ -1,0 +1,18 @@
+{
+  "welcome": "Willkommen",
+  "login": "Mit Discord einloggen",
+  "logout": "Abmelden",
+  "dashboard": "Dashboard",
+  "pricing": "Preise",
+  "features": "Funktionen",
+  "support": "Support",
+  "contact": "Kontakt",
+  "imprint": "Impressum",
+  "privacy": "Datenschutz",
+  "cta_register": "Kostenlos registrieren",
+  "cta_dashboard": "Zum Dashboard",
+  "ready_for_next_step": "Bereit für den nächsten Schritt?",
+  "start_today": "Starte noch heute mit deinem kostenlosen Account und upgrade jederzeit.",
+  "error": "Fehler",
+  "not_found": "Seite nicht gefunden"
+}
